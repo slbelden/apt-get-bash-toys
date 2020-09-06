@@ -7,7 +7,7 @@ bash script to install all my favorite shell toys on systems supporting apt.
 hasslefree installation on x86_64 systems running:
 
 * Ubuntu 18.04 - 20.04
-* WSLv1 Ubuntu 20.04
+  * WSL v1 - v2 with the above
 * Debian 10
 * good luck everybody else
 
