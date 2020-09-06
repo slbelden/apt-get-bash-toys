@@ -8,7 +8,7 @@ hasslefree installation on x86_64 systems running:
 
 * Ubuntu 18.04 - 20.04
 * WSLv1 Ubuntu 20.04
-* that's it right now
+* Debian 10
 * good luck everybody else
 
 ## Installation
